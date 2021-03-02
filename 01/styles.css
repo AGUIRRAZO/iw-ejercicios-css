@@ -10,3 +10,7 @@ h1, h2, h3, h4, p {
     font-family: cursive Arial, Helvetica, sans-serif;
     font-size: 60%;
 }
+
+#textoprincipal {
+    color: thistle;
+}
